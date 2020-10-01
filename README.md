@@ -4,6 +4,7 @@
 
 This project was originally written using Eclipse, but I have migrated it to NetBeans.
 This calculator is simple with an easy code to help novices learn how to create a calculator program with Java.
+This is one of the projects which beginners can implement for getting better at the concepts, provides motivation for better learning.
 
 If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work, you can type `java -jar /your_calculator_directory/SimpleJavaCalculator.jar` in your terminal.
 
